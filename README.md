@@ -132,7 +132,7 @@ Configure o Security Group da EC2 para liberar a porta 8501.
    - Extraem dados fundamentalistas
 4. Visualize os gráficos e insights gerados
 
-## 🎓 O Que Aprendi
+## 🎓 Aprendizado
 
 Este projeto me permitiu integrar minhas duas áreas:
 
@@ -149,10 +149,6 @@ Este projeto me permitiu integrar minhas duas áreas:
 
 ## 🔮 Próximos Passos
 
-- [ ] Sistema de alertas via Telegram/WhatsApp
-- [ ] Backtesting de estratégias
-- [ ] Dashboard de múltiplos ativos
-- [ ] API REST para integração com outras ferramentas
 - [ ] Modelo preditivo de preços (LSTM/Transformer)
 
 ## 📫 Contato
@@ -163,6 +159,7 @@ Este projeto me permitiu integrar minhas duas áreas:
 - GitHub: [@biasandrade](https://github.com/biasandrade)
 
 ---
+Este projeto faz parte do curso "Business Analytics e Machine Learning Para Projetos de Data Science" do curso de Pós-graduação em Data Scienceda da Data Science Academy.
 
 ⭐ Se este projeto te ajudou, deixe uma estrela!
 
