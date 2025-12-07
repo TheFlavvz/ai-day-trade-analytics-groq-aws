@@ -116,6 +116,8 @@ Sistema gera automaticamente:
 
 - [ ] Adicionar modelo preditivo (LSTM/Transformer)
 - [ ] Sistema de alertas
+- [ ] Previsão de preços futuros
+- [ ] Alterar de Nasdaq para Bovespa
 
 ---
 
