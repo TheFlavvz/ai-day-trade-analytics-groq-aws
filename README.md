@@ -183,7 +183,7 @@ Este projeto me permitiu integrar minhas duas áreas:
 - GitHub: [@biasandrade](https://github.com/biasandrade)
 
 ---
-Este projeto faz parte do curso "Business Analytics e Machine Learning Para Projetos de Data Science" do curso de Pós-graduação em Data Scienceda da Data Science Academy.
+Este projeto faz parte do curso "Business Analytics e Machine Learning Para Projetos de Data Science" do curso de Pós-graduação em Data Science da Data Science Academy.
 
 ⭐ Se este projeto te ajudou, deixe uma estrela!
 
